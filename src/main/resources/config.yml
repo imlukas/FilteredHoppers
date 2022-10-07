@@ -1,0 +1,15 @@
+hopper-item:
+  material: GOLD_INGOT
+  name: "&6Hopper Item"
+  lore:
+    - "&7This is a hopper item"
+    - "&7It can be used to change filters of a hopper"
+    - "&7Right-click a hopper to change its filter"
+  glow: true
+
+hopper-inventory:
+  title: "&b&lHopper Inventory"
+  border: true
+  border-item: GRAY_STAINED_GLASS_PANE
+  whitelist-item: WHITE_CONCRETE
+  blacklist-item: BLACK_CONCRETE

@@ -1,0 +1,8 @@
+name: FilteredHoppers
+version: '${version}'
+main: me.imlukas.filteredhoppers.FilteredHoppers
+api-version: 1.19
+commands:
+  hopperitem:
+    usage: /hopperitem
+    description: Gives you a hopper item
